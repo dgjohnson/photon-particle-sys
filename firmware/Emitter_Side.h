@@ -15,7 +15,7 @@
 #define emitter_side_h
 
 #include "Emitter_Abstract.h"
-//#include <Arduino.h>
+#include "application.h"
 
 class Emitter_Side : public Emitter_Abstract {
 public:
