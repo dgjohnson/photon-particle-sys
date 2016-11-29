@@ -17,6 +17,7 @@
 
 #include "Emitter_Abstract.h"
 #include "application.h"
+#include "math.h"
 
 class Emitter_Spin : public Emitter_Abstract {
 public:
