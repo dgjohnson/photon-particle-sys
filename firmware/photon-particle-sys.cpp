@@ -11,7 +11,7 @@
  * ParticleSys.cpp - generic particle system class
  */
 
-#include "ParticleSys.h"
+#include "photon-particle-sys.h"
 
 byte ParticleSys::perCycle = 1;
 
