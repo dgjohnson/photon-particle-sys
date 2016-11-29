@@ -18,7 +18,7 @@
 
 #include "ParticleSysConfig.h"
 #include "Particle_Abstract.h"
-#include <FastLED.h>
+#include "FastLED/FastLED.h"
 
 class FastLEDRenderer {
 public:
