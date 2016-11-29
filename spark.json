@@ -1,0 +1,7 @@
+{
+  "name": "photon-particle-sys",
+  "author": "fuse314 ported by dgjohnson",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Photon particle system for rgb matrix and FastLED"
+}
