@@ -15,6 +15,8 @@
 #define particle_attractor_h
 
 #include "Particle_Abstract.h"
+#include "math.h"
+#include "application.h"
 
 class Particle_Attractor : public Particle_Abstract {
 public:
