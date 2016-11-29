@@ -19,6 +19,7 @@
 #include "ParticleSysConfig.h"
 #include "Particle_Abstract.h"
 #include "FastLED/FastLED.h"
+FASTLED_USING_NAMESPACE;
 
 class FastLEDRenderer {
 public:
