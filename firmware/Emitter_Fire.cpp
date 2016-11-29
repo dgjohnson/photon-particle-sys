@@ -12,6 +12,7 @@
  */
 
 #include "Emitter_Fire.h"
+#include "application.h"
 
 uint8_t Emitter_Fire::baseHue = 128; //blues
 uint8_t Emitter_Fire::maxTtl = 128;
