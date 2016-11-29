@@ -15,7 +15,7 @@
 #define emitter_fire_h
 
 #include "Emitter_Abstract.h"
-#include <Arduino.h>
+//#include <Arduino.h>
 
 class Emitter_Fire : public Emitter_Abstract {
 public:
