@@ -15,7 +15,7 @@
 #define particle_abstract_h
 
 #include "ParticleSysConfig.h"
-#include <Arduino.h>
+//#include <Arduino.h>
 
 class Particle_Abstract {
 public:
