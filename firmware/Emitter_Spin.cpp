@@ -49,9 +49,9 @@ void Emitter_Spin::update(ParticleSysConfig *g)
 
     // Conver from Degree -> Rad
     if (counter%2 == 0) {
-        radAngle = -counter*tempRv*(PI/180) ;
+        radAngle = -counter*tempRv*(M_PI/180) ;
     } else {
-        radAngle = 180-counter*tempRv*(PI/180) ;
+        radAngle = 180-counter*tempRv*(M_PI/180) ;
     }
     // Convert Polar -> Cartesian
     vx = (int16_t)(r * cos(radAngle));
