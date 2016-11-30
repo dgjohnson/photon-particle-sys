@@ -1,7 +1,7 @@
 {
   "name": "photon-particle-sys",
-  "author": "fuse314 ported by dgjohnson",
-  "license": "MIT",
-  "version": "0.0.30",
-  "description": "Photon particle system for rgb matrix and FastLED"
+  "author": "Gilad Dayagi (ported by dgjohnson)",
+  "license": "GNU",
+  "version": "0.0.50",
+  "description": "Photon particle system for rgb matrix leveraging FastLED"
 }
